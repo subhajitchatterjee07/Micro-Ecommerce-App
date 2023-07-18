@@ -1,2 +1,2 @@
-# Micro-Ecommerce-App
+# Poetry generator 
 Project under development
