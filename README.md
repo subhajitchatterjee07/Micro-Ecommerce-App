@@ -1,2 +1,2 @@
 # Poetry generator 
-Project under development
+I didn't like this much. So I abandoned it.
